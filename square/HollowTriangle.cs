@@ -11,7 +11,7 @@ class HollowTriangle
         {
             for (int j = 1; j <= i; j++)
             {
-                Console.Write(num );
+                Console.Write(num + " ");
                 num++;
             }
 

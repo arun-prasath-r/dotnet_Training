@@ -1,7 +1,7 @@
 
 using System;
 
-class Program
+class ReverseNum
 {
     static void Main()
     {
@@ -21,3 +21,4 @@ class Program
         }
     }
 }
+

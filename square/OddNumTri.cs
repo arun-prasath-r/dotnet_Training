@@ -14,7 +14,7 @@ class  OddNumTri
 
             for (int j = 0; j < i; j++)
             {
-                Console.Write(9 - 2 * j);
+                Console.Write(9 - 2 * j + " ");
             }
 
             Console.WriteLine();

@@ -1,7 +1,7 @@
 
 using System;
 
-class RevNaturalNum
+class ReverseOddNum
 {
     static void Main()
     {
