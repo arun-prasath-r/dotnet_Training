@@ -1,7 +1,7 @@
 
 using System;
 
-class Program
+class ArrayOddNum
 {
     static void Main()
     {

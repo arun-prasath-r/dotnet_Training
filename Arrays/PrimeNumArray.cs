@@ -1,16 +1,12 @@
 ﻿
 using System;
 
-class Program
+class PrimeNumArray
 {
     static void Main()
     {
         int[] arr = new int[5];
         bool found = false;
-
-        Console.WriteLine("PRIME NUMBER CHECKER");
-        Console.WriteLine("--------------------");
-
         for (int i = 0; i < arr.Length; i++)
         {
             Console.Write($"Enter number {i + 1}: ");

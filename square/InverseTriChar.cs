@@ -8,7 +8,6 @@ class InverseTriChar
 
         for (int i = 1; i <= rows; i++)
         {
-            // Print leading spaces
             for (int space = 1; space < i; space++)
             {
                 Console.Write(" ");
@@ -16,7 +15,6 @@ class InverseTriChar
 
             char ch = 'A';
 
-            // Print characters
             for (int j = 1; j <= rows - i + 1; j++)
             {
                 if (i == 1 || j == 1 || j == rows - i + 1)
