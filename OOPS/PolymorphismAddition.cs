@@ -18,7 +18,7 @@ class Addition
     }
 }
 
-class Program
+class PolymorphismAddition
 {
     static void Main()
     {
